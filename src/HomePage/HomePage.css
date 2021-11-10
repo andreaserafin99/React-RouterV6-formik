@@ -1,0 +1,13 @@
+
+.title{
+    margin: 0;
+    text-align: center;
+}
+.post-card{
+    margin: 2rem;
+}
+.post-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
